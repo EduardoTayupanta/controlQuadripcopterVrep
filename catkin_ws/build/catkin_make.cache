@@ -1,0 +1,2 @@
+swarm_robotics
+-DCATKIN_DEVEL_PREFIX=/home/wetayupanta/PycharmProjects/controlQuadripcopterVrep/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wetayupanta/PycharmProjects/controlQuadripcopterVrep/catkin_ws/install -G Unix Makefiles

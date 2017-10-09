@@ -1,0 +1,8 @@
+prefix=/home/wetayupanta/PycharmProjects/controlQuadripcopterVrep/catkin_ws/devel
+
+Name: swarm_robotics
+Description: Description of swarm_robotics
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/wetayupanta/PycharmProjects/controlQuadripcopterVrep/catkin_ws/devel/lib 
+Requires: 
